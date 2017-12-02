@@ -1,4 +1,4 @@
-# BusyBox
+# BusyBox (addon.d)
 
 Copyright (C) 2015-2017 Anton Skshidlevsky, [GPLv3](http://opensource.org/licenses/gpl-3.0.html)
 
